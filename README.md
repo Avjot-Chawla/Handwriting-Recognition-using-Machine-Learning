@@ -22,4 +22,3 @@ Handwriting recognition is a crucial field with applications in automated data e
 
 ## Conclusion
 This project demonstrates the effectiveness of CNNs in handwriting recognition, ensuring reliable and accurate character identification. With further optimizations, it can be integrated into real-world applications requiring automated text recognition.
-
